@@ -9,7 +9,7 @@ export default function Home() {
   const id = "1U-jY5w6WV-5p7iEpHELXdGmetsoT4RYG"
   return (
     <>
-     <Image src={`https://drive.google.com/uc?export=view&id=${id}`} alt="testing" height={200} width={200}></Image>
+     <Image src={`https://drive.google.com/uc?export=view&id=${id}`}></Image>
     </>
   )
 }
