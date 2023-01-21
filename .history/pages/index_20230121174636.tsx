@@ -9,7 +9,6 @@ export default function Home() {
   const id = "1U-jY5w6WV-5p7iEpHELXdGmetsoT4RYG"
   return (
     <>
-    changed
      <Image src={`https://drive.google.com/uc?id=${id}`} alt="testing" height={200} width={200}></Image>
     </>
   )
